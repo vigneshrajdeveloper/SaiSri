@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/SaiSri/static/css/main.698896cd.css",
-    "main.js": "/SaiSri/static/js/main.ac4a5776.js",
+    "main.js": "/SaiSri/static/js/main.c0fcce34.js",
     "static/js/453.35732811.chunk.js": "/SaiSri/static/js/453.35732811.chunk.js",
     "index.html": "/SaiSri/index.html",
     "main.698896cd.css.map": "/SaiSri/static/css/main.698896cd.css.map",
-    "main.ac4a5776.js.map": "/SaiSri/static/js/main.ac4a5776.js.map",
+    "main.c0fcce34.js.map": "/SaiSri/static/js/main.c0fcce34.js.map",
     "453.35732811.chunk.js.map": "/SaiSri/static/js/453.35732811.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.698896cd.css",
-    "static/js/main.ac4a5776.js"
+    "static/js/main.c0fcce34.js"
   ]
 }
