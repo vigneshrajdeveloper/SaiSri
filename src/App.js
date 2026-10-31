@@ -119,7 +119,7 @@ export default function App() {
         >
           <div className="scene-content">
             <img
-              src="/bharatanatyam.png"
+              src="{`${process.env.PUBLIC_URL}/bharatanatyam.png"
               alt="Bharatanatyam dancer"
               className="bharatanatyam-image"
             />
@@ -144,7 +144,7 @@ export default function App() {
         >
           <div className="scene-content">
             <img
-              src="/ranganathar.png"
+              src="{`${process.env.PUBLIC_URL}/ranganathar.png"
               alt="Lord Ranganathar"
               className="ranganathar-image"
             />
